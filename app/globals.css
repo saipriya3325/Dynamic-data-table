@@ -1,0 +1,16 @@
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  background: #121212;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+}
